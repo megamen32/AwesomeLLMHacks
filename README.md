@@ -1,8 +1,8 @@
 # AwesomeLLMHacks
 
-> Куратированный список инструментов и хаков для работы с LLM-сервисами в браузере: ChatGPT, Z.AI, DeepSeek, Qwen, Claude, Grok, Google AI Studio и др.
+> список инструментов и хаков для работы с LLM: ChatGPT, Z.AI, DeepSeek, Qwen, Claude, Grok, Google AI Studio и др.
 
-Фокус — прикладные штуки, которые помогают в ежедневной работе с веб-интерфейсами моделей: многопанельный ChatGPT, очереди промптов, перехват сетевого трафика, копирование в чистый Markdown, агрегация провайдеров, референс по реальным system prompts.
+Фокус на прикладные штуки, которые помогают в ежедневной работе с веб-интерфейсами моделей: многопанельный ChatGPT, очереди промптов, перехват сетевого трафика, копирование в чистый Markdown, агрегация провайдеров, референс по реальным system prompts.
 
 Полный разбор каждого инструмента — в [`reviews/`](reviews/). Короткие карточки ниже.
 
@@ -15,8 +15,8 @@
 
 ## Chrome Extensions
 
-- [chatgpt-multi](https://github.com/megamen32/chatgpt-multi) — несколько параллельных панелей ChatGPT в одном workspace, с lazy-pane и conversation trim. → [📄 review](reviews/chatgpt-multi.md)
-- [auto-confirm-extension](https://github.com/megamen32/auto-confirm-extension) — автоклик по диалогам подтверждения в Custom GPT actions. → [📄 review](reviews/auto-confirm-extension.md)
+- [chatgpt-multi](https://github.com/megamen32/chatgpt-multi) — Telegram bridge, несколько параллельных панелей ChatGPT в одном workspace, и улучшением производительности. → [📄 review](reviews/chatgpt-multi.md)
+- [auto-confirm-extension](https://github.com/megamen32/auto-confirm-extension) — авторазрешние действий в Custom GPT actions. → [📄 review](reviews/auto-confirm-extension.md)
 - [promqueue](https://github.com/megamen32/promqueue) — очередь и bulk-send промптов в z.ai, ChatGPT, Claude, DeepSeek, Qwen, Gemini, AI Studio, Copilot. → [📄 review](reviews/promqueue.md)
 - [zai-auto-retry](https://github.com/megamen32/zai-auto-retry) — автоповтор запроса в Z.AI при появлении peak-hours диалога. → [📄 review](reviews/zai-auto-retry.md)
 
@@ -27,7 +27,7 @@
 
 ## Provider Routing & Gateways
 
-- [OmniRoute](https://github.com/diegosouzapw/OmniRoute) — единый endpoint для 237 LLM-провайдеров (90+ бесплатных), RTK-компрессия, auto-fallback, MCP/A2A. → [📄 review](reviews/omniroute.md)
+- [OmniRoute](https://github.com/diegosouzapw/OmniRoute) — единый endpoint для 237 LLM-провайдеров (90+ бесплатных), компрессия, auto-fallback, MCP/A2A. → [📄 review](reviews/omniroute.md)
 
 ## Reference: System Prompts
 
