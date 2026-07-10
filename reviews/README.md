@@ -14,6 +14,10 @@
 - [network-interceptor](network-interceptor.md) — перехват fetch/XHR/WS/SSE на LLM-сайтах.
 - [markdown-latex-copier](markdown-latex-copier.md) — чистый Markdown + LaTeX при копировании.
 
+## VS Code Extensions
+
+- [claude-trace](claude-trace.md) — визуальная история сессий Claude Code.
+
 ## Provider Routing & Gateways
 
 - [omniroute](omniroute.md) — единый endpoint на 237 провайдеров.

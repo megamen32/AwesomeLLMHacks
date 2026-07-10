@@ -10,6 +10,7 @@
 
 - [Chrome Extensions](#chrome-extensions)
 - [Tampermonkey / UserScripts](#tampermonkey--userscripts)
+- [VS Code Extensions](#vs-code-extensions)
 - [Provider Routing & Gateways](#provider-routing--gateways)
 - [Reference: System Prompts](#reference-system-prompts)
 
@@ -24,6 +25,10 @@
 
 - [Dynamic Network Interceptor](https://gist.github.com/Kreijstal/3b68d94c54e98a22b733e0fe0c739afd) — перехват fetch/XHR/WebSocket/SSE на AI Studio, Mistral, Meta, DeepSeek, Grok, MiniMax. → [📄 review](reviews/network-interceptor.md)
 - [GPT-AI-Markdown-LaTeX-Copier](https://github.com/Wavesflow/GPT-AI-Markdown-LaTeX-Copier) — копирование ответов LLM в чистый Markdown с сохранением LaTeX. → [📄 review](reviews/markdown-latex-copier.md)
+
+## VS Code Extensions
+
+- [Claude Trace](https://marketplace.visualstudio.com/items?itemName=nrigalle.claude-trace) — визуальная история Claude Code: сессии, чат, затронутые файлы и графики использования в одном интерфейсе. → [📄 review](reviews/claude-trace.md)
 
 ## Provider Routing & Gateways
 
